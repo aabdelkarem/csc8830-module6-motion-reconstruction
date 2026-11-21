@@ -1,0 +1,11 @@
+{
+  "duration_seconds": 76.0,
+  "expected_seconds": 76,
+  "fps": 25,
+  "resolution": [
+    1280,
+    720
+  ],
+  "contents": "Two full 30-second flow sequences plus four-view and camera/boundary output visuals",
+  "source": "Actual computed outputs; not a recording of a human demonstration"
+}
